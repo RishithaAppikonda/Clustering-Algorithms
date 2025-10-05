@@ -8,3 +8,5 @@ Clustering is an **unsupervised learning technique** used to group similar data 
 - **Centroid**: The center point of a cluster (used in algorithms like K-Means).  
 - **Distance/Similarity Measures**: Metrics used to determine how close or similar points are (e.g., Euclidean, Manhattan, Cosine similarity).  
 - **Inertia/Variance**: A measure of how tightly data points are grouped within clusters.
+
+
