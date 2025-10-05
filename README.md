@@ -1,5 +1,4 @@
 
-
 # Clustering Algorithms in Machine Learning
 
 Clustering is an **unsupervised learning technique** used to group similar data points together based on their inherent characteristics. Unlike classification, clustering does not rely on labeled data; instead, it identifies patterns and structures within the dataset. Clustering is widely used in customer segmentation, image analysis, anomaly detection, and recommendation systems.
