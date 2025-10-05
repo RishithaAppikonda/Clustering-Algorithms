@@ -10,3 +10,8 @@ Clustering is an **unsupervised learning technique** used to group similar data 
 - **Inertia/Variance**: A measure of how tightly data points are grouped within clusters.
 
 
+
+
+
+
+
